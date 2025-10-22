@@ -1,0 +1,151 @@
+{
+  "description": "database of entomology and its etomology",
+  "class": "Insecta",
+  "orders": [
+    {
+      "order_name": "Archaeognatha",
+      "etymology": {
+        "description": "Greek words archaios (ancient) and gnathos (jaw), referring to the primitive way their mandibles are articulated",
+        "origin": "Greek",
+        "words": [{"archios": "ancient"}, {"gnathos": "jaw"}]
+      },
+      "common_name": "Bristletails",
+      "metamorphosis": "Ametabolous"
+    },
+    {
+      "order_name": "Zygentoma",
+      "common_name": "Silverfish and firebrats",
+      "metamorphosis": "Ametabolous"
+    },
+    {
+      "order_name": "Ephemeroptera",
+      "common_name": "Mayflies",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Odonata",
+      "common_name": "Dragonflies and damselflies",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Plecoptera",
+      "common_name": "Stoneflies",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Orthoptera",
+      "common_name": "Grasshoppers, crickets, and katydids",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Phasmatodea",
+      "common_name": "Stick and leaf insects",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Embioptera",
+      "common_name": "Webspinners",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Grylloblattodea",
+      "common_name": "Ice bugs or rock crawlers",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Mantophasmatodea",
+      "common_name": "Gladiators or heelwalkers",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Dermaptera",
+      "common_name": "Earwigs",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Zoraptera",
+      "common_name": "Angel insects",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Psocodea",
+      "common_name": "Booklice, barklice, and true lice",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Hemiptera",
+      "common_name": "True bugs, aphids, cicadas",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Thysanoptera",
+      "common_name": "Thrips",
+      "metamorphosis": "Hemimetabolous (with pupa-like stage)"
+    },
+    {
+      "order_name": "Blattodea",
+      "common_name": "Cockroaches and termites",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Mantodea",
+      "common_name": "Praying mantids",
+      "metamorphosis": "Hemimetabolous"
+    },
+    {
+      "order_name": "Coleoptera",
+      "common_name": "Beetles",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Strepsiptera",
+      "common_name": "Twisted-winged parasites",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Megaloptera",
+      "common_name": "Alderflies, dobsonflies, and fishflies",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Raphidioptera",
+      "common_name": "Snakeflies",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Neuroptera",
+      "common_name": "Lacewings, antlions, and mantidflies",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Hymenoptera",
+      "common_name": "Ants, bees, and wasps",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Trichoptera",
+      "common_name": "Caddisflies",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Lepidoptera",
+      "common_name": "Butterflies and moths",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Siphonaptera",
+      "common_name": "Fleas",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Diptera",
+      "common_name": "True flies, mosquitoes, and gnats",
+      "metamorphosis": "Holometabolous"
+    },
+    {
+      "order_name": "Mecoptera",
+      "common_name": "Scorpionflies and hangingflies",
+      "metamorphosis": "Holometabolous"
+    }
+  ]
+}
